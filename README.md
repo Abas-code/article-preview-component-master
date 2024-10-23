@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Abas-code/testimonials-grid-section-main)
-- Live Site URL: (https://testimonials-grid-section-main-six-bay.vercel.app/)
+- Solution URL: (https://github.com/Abas-code/article-preview-component-master)
+- Live Site URL: (https://article-preview-component-master-chi-eight.vercel.app/)
 
 ## My process
 
